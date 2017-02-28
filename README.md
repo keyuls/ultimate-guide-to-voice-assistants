@@ -22,7 +22,7 @@ That is not what this post is about.
 > There are lots of resources & tools, tons of cool products, frameworks, articles
 > and people out there to help you learn about the landscape.
 
-### 💫 Here are some that I find particularly useful 💫
+###  Here are some that I find particularly useful 
 
 "2017 will be a defining moment for voice. Voice-first devices shipped by year:
 
@@ -34,20 +34,20 @@ by VoiceLabs</span>
 
 *****
 
-### 🤔 How To Use This
+###  How To Use This
 
-**📰 News**: There is very little on the newsletter front focusing on
+** News**: There is very little on the newsletter front focusing on
 Voice-Assistants. [Matt Hartman](https://medium.com/@MattHartman) does the best
 one IMO.
 
 > *I’m thinking of starting one too —[if you’re interested, sign up!](https://upscri.be/146843-2)*
 
-**🍜 Startups**: Always interesting to see the companies operating in these
+** Startups**: Always interesting to see the companies operating in these
 spaces. They are broken down into different categories so you can easily jump
 into ‘Building’, ‘Products’, ‘Analytics’ etc. If you think there are some that
 need adding,[tell me here](https://twitter.com/bentossell)**.**
 
-**🤑 Funding:** This is just to outline some companies/funds that are very
+** Funding:** This is just to outline some companies/funds that are very
 focused in the space right now. Again, if I’ve missed some worthwhile,[tell me here](https://twitter.com/bentossell)**.**
 
 **👥 People & Posts:** These are some of the awesome people I follow and have
@@ -220,6 +220,8 @@ get started: [Build your first Alexa skill](https://medium.com/@bthdonohue/build
 [Build an Alexa Skill in 7 Minutes Flat with Node.js and StdLib](https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f?gi=b4de0b1bba57)
 
 [alexa message builder](https://www.npmjs.com/package/alexa-message-builder)
+
+[creating an Alexa skill with ASP.Net Web API](https://tutorials.botsfloor.com/having-a-merry-geeky-christmas-creating-an-alexa-skill-with-asp-net-web-api-d4a2cd6d016d)
 
 
 ### 💼 Agencies
